@@ -4,6 +4,7 @@ main {
     gap: 24px;
     padding-block: 24px;
     padding-inline: 60px;
+    background-color: white;
 }
 
 main img {
