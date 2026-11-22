@@ -13,6 +13,13 @@ header .container {
     max-width: 384px;
 }
 
+#profile img {
+    height: 176px;
+    width: 176px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 header h1{
     font: var(--text-lg);
     color: var(--text-color-primary);
